@@ -1,2 +1,2 @@
 # offensive-resources.github.io
-Offensive Resources Website
+Offensive Resources Website: https://offensive-resources.github.io/
